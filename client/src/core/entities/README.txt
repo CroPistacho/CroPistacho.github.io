@@ -1,0 +1,1 @@
+En esta carpeta se definen las entidades del dominio, que son los objetos principales con los que trabaja nuestra aplicación. Las entidades representan los datos y sus comportamientos en el contexto del negocio.

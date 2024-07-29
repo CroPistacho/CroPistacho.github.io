@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los adaptadores que se encargan de conectar nuestra aplicación con APIs externas o servicios de terceros. Aquí gestionamos todas las llamadas a servicios externos.

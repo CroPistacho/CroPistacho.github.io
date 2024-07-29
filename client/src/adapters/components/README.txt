@@ -1,0 +1,1 @@
+Aquí colocamos todos los componentes de la interfaz de usuario (UI) que utilizamos en nuestra aplicación. Los componentes son las piezas reutilizables de nuestra interfaz, como botones, formularios y menús.
