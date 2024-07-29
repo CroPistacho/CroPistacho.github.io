@@ -1,0 +1,1 @@
+Aquí se encuentra la lógica de negocio principal y los casos de uso de nuestra aplicación. Los casos de uso describen cómo interactúan las entidades para realizar tareas específicas o cumplir con requisitos del negocio.

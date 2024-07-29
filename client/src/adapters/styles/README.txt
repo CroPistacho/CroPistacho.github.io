@@ -1,0 +1,1 @@
+Esta carpeta contiene todos los archivos CSS y estilos que utilizamos para darle apariencia a nuestros componentes y a la aplicación en general.
